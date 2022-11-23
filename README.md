@@ -16,8 +16,8 @@ The hanoi data set must be prepared as follows:
 
 1. Download the Hanoi scenarios from [LeakDB](https://github.com/KIOS-Research/LeakDB) and put the scenarios in ``Implementation/hanoi_data/LeakDB/Hanoi_CMH/``.
 2. Create the folders ``Implementation/hanoi-data/hanoi_clean/`` and ``Implementation/hanoi-data/hanoi_faultysensor/``
-3. Run [Implementation/hanoi_data/datagenerator.py](Implementation/hanoi_data/datagenerator.py)
-4. Run [Implementation/hanoi_data/generate_sensor_fault.py](Implementation/hanoi_data/generate_sensor_fault.py)
+3. Run [Implementation/hanoi-data/datagenerator.py](Implementation/hanoi-data/datagenerator.py)
+4. Run [Implementation/hanoi-data/generate_sensor_fault.py](Implementation/hanoi-data/generate_sensor_fault.py)
 
 ### Implementation of the experiments
 
